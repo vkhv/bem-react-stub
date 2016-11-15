@@ -1,0 +1,46 @@
+{
+  "name": "bem-react-stub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot --inline --progress --port=3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awinogradov/bem-react-stub.git"
+  },
+  "author": "Anton Winogradov <winogradovaa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awinogradov/bem-react-stub/issues"
+  },
+  "homepage": "https://github.com/awinogradov/bem-react-stub#readme",
+  "dependencies": {
+    "babel-core": "^6.11.4",
+    "babel-eslint": "^7.0.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.16.0",
+    "bem-react-core": "github:awinogradov/bem-react-core#dist",
+    "css-loader": "^0.24.0",
+    "file-loader": "^0.9.0",
+    "json-loader": "^0.5.4",
+    "postcss-browser-reporter": "^0.5.0",
+    "postcss-csso": "^1.1.2",
+    "postcss-import": "^8.1.2",
+    "postcss-loader": "^0.13.0",
+    "postcss-reporter": "^1.4.1",
+    "postcss-url": "^5.1.2",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-keydown": "^1.6.1",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.2",
+    "webpack-bem-loader": "github:bem/webpack-bem-loader#more-checks",
+    "webpack-dev-server": "^1.15.0"
+  }
+}
