@@ -22,7 +22,7 @@ Using the block from root component:
 blocks/root/root.js
 
 ```
-import { decl, Bem } from 'bem';
+import { decl } from 'bem';
 import React from 'react'
 import Header from 'b:header'
 
