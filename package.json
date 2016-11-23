@@ -27,6 +27,7 @@
     "bem-react-core": "github:awinogradov/bem-react-core#dist",
     "css-loader": "^0.24.0",
     "file-loader": "^0.9.0",
+    "inherit": "^2.2.6",
     "json-loader": "^0.5.4",
     "postcss-browser-reporter": "^0.5.0",
     "postcss-csso": "^1.1.2",
