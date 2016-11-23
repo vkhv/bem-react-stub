@@ -46,6 +46,7 @@ export default decl({
 ```
 
 Using the block from root component:
+
 blocks/root/root.js
 
 ```js
