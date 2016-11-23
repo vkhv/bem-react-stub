@@ -42,5 +42,8 @@
     "webpack": "^1.13.2",
     "webpack-bem-loader": "github:bem/webpack-bem-loader#more-checks",
     "webpack-dev-server": "^1.15.0"
+  },
+  "devDependencies": {
+    "inherit": "^2.2.6"
   }
 }
